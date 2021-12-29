@@ -1,0 +1,22 @@
+{
+  "name": "DemoPods",
+  "version": "0.1.0",
+  "summary": "A short description of DemoPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qichangyan/DemoPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qichangyan": "stoneqi2007@163.com"
+  },
+  "source": {
+    "git": "https://github.com/qichangyan/DemoPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DemoPods/Classes/**/*"
+}
